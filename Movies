@@ -106,11 +106,13 @@ https://drive.google.com/file/d/1KH5r_Q2xTMqcuxDBxKwGmK7qZpCGs96y/view?usp=drive
 https://drive.google.com/file/d/1dtFPbJRZVgo5EpO74AcYos8pG7KHMOn-/view?usp=drivesdk=parseUrl=5
 
  
-#EXTINF:-1 tvg-logo="https://www.betdsi.com/wp-content/uploads/2019/06/image-match-324050658.png" group-title="MLB Games",Royals/Mariners 
-http://yoursports.stream/mlb?v=MjEyMTQ2NTA0parseUrl=2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B_T0F36YEi0/maxresdefault.jpg" group-title="2021 Movies",The Marksman 
+https://drive.google.com/file/d/1EUxVsSuOS1nMR8exWDANFR44spvlEIQL/view?usp=drivesdk=parseUrl=5
+
  
-#EXTINF:-1 tvg-logo="https://www.betdsi.com/wp-content/uploads/2019/05/image-match-1333321665.png" group-title="MLB Games",Indians/Athletics 
-http://yoursports.stream/mlb?v=MjE0Njk4MzYyparseUrl=2
+#EXTINF:-1 tvg-logo="https://d3i6fh83elv35t.cloudfront.net/static/2021/03/mauritanian-1024x564.jpg" group-title="2021 Movies",The Mauritanian 
+https://drive.google.com/file/d/1jiFCR3i08cpOamkGbb49hB-xaIFJNyjw/view?usp=drivesdk=parseUrl=5
+
  
 #EXTINF:-1 tvg-logo="http://severemma.com/wp-content/uploads/2020/01/Eir-Sport.jpg" group-title="Sports",EIR Sport 1 
 http://freestreams-live1.com/eir-sport-1parseUrl=2
