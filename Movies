@@ -122,11 +122,13 @@ https://drive.google.com/file/d/1tNS_2q_JM9vbhb3EI4bosdYif_X0LWw4/view?usp=drive
 https://drive.google.com/file/d/1gelbRBJpaUO1WOvyCBCcjUe7aI5YI19H/view?usp=drivesdk=parseUrl=5
 
  
-#EXTINF:-1 tvg-logo="https://media.criticalhit.net/2016/03/SuperSport.jpg" group-title="Sports",Super Sport 1 
-http://freestreams-live1.com/super-sport-1parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.slashgear.com/wp-content/uploads/2020/11/tomandjerry-1280x720.jpg" group-title="2021 Movies",Tom & Jerry 
+https://drive.google.com/file/d/1HHp-TEgc8viHdA89YTUezdrLjBM-5kQ1/view?usp=drivesdk=parseUrl=5
+
  
-#EXTINF:-1 tvg-logo="https://media.criticalhit.net/2016/03/SuperSport.jpg" group-title="Sports",Super Sport 2 
-http://freestreams-live1.com/super-sport-2parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.mensjournal.com/wp-content/uploads/2019/09/without-remorse-jordan-main-23341.jpg?quality=86&strip=all" group-title="2021 Movies",Tom Clancy: Without Remorse 
+https://drive.google.com/file/d/1sfU6T_LjUgf6jJHkKRE-6hff5JVhlV4b/view?usp=drivesdk=parseUrl=5
+
  
 #EXTINF:-1 tvg-logo="https://media.criticalhit.net/2016/03/SuperSport.jpg" group-title="Sports",Super Sport 3 
 http://freestreams-live1.com/super-sport-3parseUrl=2
