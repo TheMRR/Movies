@@ -114,11 +114,13 @@ https://drive.google.com/file/d/1EUxVsSuOS1nMR8exWDANFR44spvlEIQL/view?usp=drive
 https://drive.google.com/file/d/1jiFCR3i08cpOamkGbb49hB-xaIFJNyjw/view?usp=drivesdk=parseUrl=5
 
  
-#EXTINF:-1 tvg-logo="http://severemma.com/wp-content/uploads/2020/01/Eir-Sport.jpg" group-title="Sports",EIR Sport 1 
-http://freestreams-live1.com/eir-sport-1parseUrl=2
+#EXTINF:-1 tvg-logo="https://www.nowrunning.com/content/movie/2020/the-w-25419/bg_the_white_tiger.jpg" group-title="2021 Movies",The White Tiger 
+https://drive.google.com/file/d/1tNS_2q_JM9vbhb3EI4bosdYif_X0LWw4/view?usp=drivesdk=parseUrl=5
+
  
-#EXTINF:-1 tvg-logo="http://severemma.com/wp-content/uploads/2020/01/Eir-Sport.jpg" group-title="Sports",EIR Sport 2 
-http://freestreams-live1.com/eir-sport-2parseUrl=2
+#EXTINF:-1 tvg-logo="https://i2.wp.com/midwestfilmjournal.com/wp-content/uploads/2021/04/thunderforce-wide.jpeg?fit=1280%2C720&ssl=1" group-title="2021 Movies",Thunder Force 
+https://drive.google.com/file/d/1gelbRBJpaUO1WOvyCBCcjUe7aI5YI19H/view?usp=drivesdk=parseUrl=5
+
  
 #EXTINF:-1 tvg-logo="https://media.criticalhit.net/2016/03/SuperSport.jpg" group-title="Sports",Super Sport 1 
 http://freestreams-live1.com/super-sport-1parseUrl=2
